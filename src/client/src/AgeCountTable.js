@@ -1,5 +1,5 @@
 import React, {useEffect} from 'react';
-import {ButtonGroup, SplitButton} from "react-bootstrap";
+import {ButtonGroup} from "react-bootstrap";
 import {DropdownButton} from "react-bootstrap";
 import {Dropdown} from "react-bootstrap";
 import './AgeCountTable.css';
